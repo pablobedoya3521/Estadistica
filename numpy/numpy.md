@@ -17,6 +17,7 @@
 *1. Creación de Arreglos*
 
 **Crear un arreglo de 10 ceros**
+    
     `arreglo_ceros = np.zeros(10)`
 
 **Crear un arreglo de 10 unos**
